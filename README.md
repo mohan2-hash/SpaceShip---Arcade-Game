@@ -1,6 +1,6 @@
-# Spaceship Asteroids Game
+# Spaceship---Arcade-Game
 
-Welcome to **Spaceship Asteroids**, a retro-futuristic arcade game where you navigate a spaceship through an asteroid field, avoiding collisions and shooting asteroids to survive and score points. This game is built entirely using HTML, CSS, and JavaScript, with no external libraries or frameworks.
+Welcome to **Spaceship---Arcade-Game**, a retro-futuristic arcade game where you navigate a spaceship through an asteroid field, avoiding collisions and shooting asteroids to survive and score points. This game is built entirely using HTML, CSS, and JavaScript, with no external libraries or frameworks.
 
 ## How to Play
 
